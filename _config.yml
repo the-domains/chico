@@ -1,0 +1,28 @@
+name: chico
+favicon: null
+layout_spectrum: 0.7435088583733886
+typography_spectrum: 0.5320573055651039
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9480830328539014
+  lightness: 0.9267360577359796
+  saturation: 0.15395920886658132
+  rhythmicContrast: 0.8999585912097245
+purpose: []
